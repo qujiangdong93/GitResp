@@ -5,5 +5,6 @@ public class Student {
     private Integer age;
     private Integer height;
 	private Integer weight;
+	private String username;
 
 }
